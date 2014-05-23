@@ -12,4 +12,4 @@ The script has the following input-output model:
    * merged_data_filtered.txt
    * tidy_dataset_means.txt
    
-Folder **data** and **run_analysis.R** have to be in the same workspace
+:warning: Folder **data** and file **run_analysis.R** have to be in the same workspace
