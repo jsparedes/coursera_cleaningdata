@@ -14,6 +14,4 @@ The script has the following input-output model:
    
 :warning: Folder **data** and file **run_analysis.R** have to be in the same workspace
 
-:heavy_exclamation_mark: You must to set your workspace directory in the second line of run_analysis.R
-For example in my case was: **setwd("C:/Users/jparedes.ICA/Downloads/Cleaning Data/Project - UCI HAR Dataset")**.
-Inside this workspace is stored the script and the folder data
+:heavy_exclamation_mark: You must to set your workspace directory in the second line of the script (run_analysis.R). For example in my case was: **setwd("C:/Users/jparedes.ICA/Downloads/Cleaning Data/Project - UCI HAR Dataset")**. Inside this workspace is stored the script and the folder data.
