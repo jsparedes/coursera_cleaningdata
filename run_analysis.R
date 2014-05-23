@@ -1,4 +1,5 @@
 setwd("C:/Users/jparedes.ICA/Downloads/Cleaning Data/Project - UCI HAR Dataset")
+# Change it according your workspace
 
 ######################### Part 1: ###############################
 # Merges the training and the test sets to create one data set.
