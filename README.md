@@ -7,7 +7,7 @@ Data project :dvd: : [Link](https://d396qusza40orc.cloudfront.net/getdata%2Fproj
 The script has the following input-output model:
 
 1. **Input**
-   * Folder [data](http://github.com/warderm6/coursera_cleaningdata/tree/master/data) (from Data project, see Requeriments) 
+   * Files contained inside folder [data](http://github.com/warderm6/coursera_cleaningdata/tree/master/data) (see Requeriments: Data project) 
 2. **Outputs** 
    * merged_data_filtered.txt
    * tidy_dataset_means.txt
